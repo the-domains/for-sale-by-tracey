@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[FOR SALE by Tracey]]></title>
-        <description><![CDATA[FOR SALE by Tracey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Live Local Listings! SEMO's up-to-the-minute real estate listings & local biz reviews!]]></title>
+        <description><![CDATA[Live Local Listings! SEMO's up-to-the-minute real estate listings & local biz reviews!]]></description>
+        <link>https://thegrid.ai/for-sale-by-tracey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 03:22:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 04:09:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/for-sale-by-tracey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Mortgage Rates Dropped After the Fed Rate Hike | Zillow Porchlight]]></title>
+            <description><![CDATA[<article><h1>Why Mortgage Rates Dropped After the Fed Rate Hike | Zillow Porchlight</h1><p>This month, the Federal Reserve System hiked rates for the first time in nine years. In the days since the Fed move, mortgage rates actually dropped. How is this possible? And will this trend hold as home-buyers make plans for 2016? Immediate mortgage rate reaction to Fed meeting Most U.S.</p><img src="http://cdn1.blog-media.zillowstatic.com/1/shutterstock_55844071-ea91a3.jpg"></article>]]></description>
+            <link>http://www.zillow.com/blog/mortgage-rates-drop-after-fed-hike-189916/</link>
+            <guid isPermaLink="false">ea20e1c8-250d-471c-a8e3-aae679db6149</guid>
+            <pubDate>Tue, 29 Dec 2015 04:09:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/338bc6b3-1ce9-4928-8d2b-504e33af3503.png">]]></description>
-            <link>undefined6b418941-6bc2-4652-b649-1ce390d8b6eb/index.html</link>
+            <link>https://thegrid.ai/for-sale-by-tracey/6b418941-6bc2-4652-b649-1ce390d8b6eb/index.html</link>
             <guid isPermaLink="false">6b418941-6bc2-4652-b649-1ce390d8b6eb</guid>
             <pubDate>Tue, 29 Dec 2015 03:21:57 GMT</pubDate>
         </item>
