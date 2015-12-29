@@ -1,7 +1,7 @@
 name: FOR SALE by Tracey
 favicon: null
-layout_spectrum: 0.4371291378047317
-typography_spectrum: 0.7316020149737597
+layout_spectrum: 0.95746
+typography_spectrum: 0.28896
 title: "Live Local Listings! SEMO's up-to-the-minute real estate listings & local biz reviews!"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#6aa400'
+    - '#000000'
+    - '#ffde00'
+    - '#b70e00'
+    - '#ffffff'
   brandStrength: 0.6103089256212115
-  lightness: 0.321617215173319
-  saturation: 0.9405142057221383
-  rhythmicContrast: 0.9554606075398624
+  lightness: 0.1875
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
